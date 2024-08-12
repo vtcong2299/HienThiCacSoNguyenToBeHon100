@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThiSoNguyenToNhoHon100\bin\Debug\net8.0\HienThiSoNguyenToNhoHon100.exe
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThiSoNguyenToNhoHon100\bin\Debug\net8.0\HienThiSoNguyenToNhoHon100.deps.json
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThiSoNguyenToNhoHon100\bin\Debug\net8.0\HienThiSoNguyenToNhoHon100.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThiSoNguyenToNhoHon100\bin\Debug\net8.0\HienThiSoNguyenToNhoHon100.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThiSoNguyenToNhoHon100\bin\Debug\net8.0\HienThiSoNguyenToNhoHon100.pdb
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiSoNguyenToNhoHon100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiSoNguyenToNhoHon100.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiSoNguyenToNhoHon100.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiSoNguyenToNhoHon100.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiSoNguyenToNhoHon100.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\refint\HienThiSoNguyenToNhoHon100.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiSoNguyenToNhoHon100.pdb
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiSoNguyenToNhoHon100.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\ref\HienThiSoNguyenToNhoHon100.dll
